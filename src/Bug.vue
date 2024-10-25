@@ -1,4 +1,5 @@
 <template>
+    <button class="btn btn-outline btn-primary">primary</button>
     <button class="btn btn-outline btn-secondary">Secondary</button>
 
     <button class="btn btn-outline btn-primary border-solid">Primary with border-solid class</button>
